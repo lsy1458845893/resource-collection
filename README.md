@@ -6,3 +6,6 @@
 
 - [Prebuilt GNU Toolchains for Windows](http://gnutoolchains.com/)
   + toolchains: esp32, esp8266, arm, msp430, risc-v...
+
+- [Google Search in China](fanqiang.yanke.info)
+
